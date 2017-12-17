@@ -1,3 +1,5 @@
+# PostCSS Type Scale
+
 [![npm version](https://badge.fury.io/js/postcss-type-scale.svg)](https://badge.fury.io/js/postcss-type-scale)
 
 PostCSS plugin that makes available a typographic scale in font-size declarations.
